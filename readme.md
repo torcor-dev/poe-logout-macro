@@ -1,4 +1,4 @@
-# POE Mouse Button Logout macro
+# POE Mouse Button Logout Macro
 
 Features:
 - Mapped to M4, or any mouse button
